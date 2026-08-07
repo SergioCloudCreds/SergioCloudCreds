@@ -19,9 +19,9 @@
   <li> - SwiftUI programming</li>
   <li> - SwiftUI layouts</li>
   <li> - Navigation</li>
-  <li>API requests</li>
-  <li>State management</li>
-  <li>Git & GitHub workflow</li>
+  <li> - API requests</li>
+  <li> - State management</li>
+  <li> - Git & GitHub workflow</li>
 </ul>
 
 <h3> :bulb: My Goal </h3> 
