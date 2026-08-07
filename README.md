@@ -16,12 +16,12 @@
 
 <h3> :dart: What I'm Learning </h3> 
 <ul>
-  <li> - SwiftUI programming</li>
-  <li> - SwiftUI layouts</li>
-  <li> - Navigation</li>
-  <li> - API requests</li>
-  <li> - State management</li>
-  <li> - Git & GitHub workflow</li>
+   - SwiftUI programming
+   - SwiftUI layouts
+   - Navigation
+   - API requests
+   - State management
+   - Git & GitHub workflow
 </ul>
 
 <h3> :bulb: My Goal </h3> 
