@@ -16,7 +16,7 @@
 
 <h3> :dart: What I'm Learning </h3> 
 <ul>
-   - SwiftUI programming
+   - Swift programming
    - SwiftUI layouts
    - Navigation
    - API requests
