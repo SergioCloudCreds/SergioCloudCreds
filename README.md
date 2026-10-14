@@ -4,7 +4,7 @@
 <h2 align="center"> ~ About Me ~ </h2>
 
 <p align="center">
-  <b> I am an aspiring :apple: iOS Developer, I love to create applications using SwiftUI </b><br>
+  <b> I am an aspiring Developer, I love to create, tinker with and build things </b><br>
   </p>
 
 <h2> <b> Project 1 – Tutorial </b> </h2>
