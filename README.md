@@ -7,6 +7,7 @@
 <h2>Project 1 – SwiftUI Tutorial</h2>
 
 <p><b>Status:</b> ✅ Completed</p>
+<p><b>Name of Project:</b> Youtube_Tutorials </p>
 
 <p>Completed a comprehensive SwiftUI tutorial, developing multiple views while learning the fundamentals of Swift and iOS development.</p>
 
