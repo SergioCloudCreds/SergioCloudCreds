@@ -19,3 +19,20 @@
 - Git & GitHub
 
 > **Next Step:** Applying these skills to build original iOS applications.
+
+## Project 2 – Concert Finder
+
+<p><b>Status:</b> 🚧 In Progress</p>
+<p><b>Name of Project:</b> Concert_Finder</p>
+
+<p>Currently developing a concert-finding iOS application using Swift and SwiftUI. The app aims to help users discover upcoming concerts, explore artists and find live music events. This project focuses on applying SwiftUI fundamentals to a practical application while gaining experience in app development, UI design and API integration.</p>
+
+**Skills Being Developed:**
+- Swift & SwiftUI
+- UI Design & Navigation
+- API Integration & JSON
+- Data Handling
+- App Architecture
+- Git & GitHub
+
+> **Next Step:** Build and implement the core features of the Concert Finder application.
